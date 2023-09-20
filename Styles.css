@@ -5,3 +5,15 @@ body {
 h1 {
     font-family: helvetica;
 }
+
+.title {
+    text-align: center;
+}
+
+.content {
+    width: 100%;
+}
+
+.wall {
+    width: 20%;
+}
