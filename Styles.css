@@ -16,6 +16,9 @@ h1 {
     width: 100%;
 }
 
+.data {
+    border-width: 1;
+}
 .wall {
     width: 20%;
 }
