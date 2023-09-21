@@ -1,15 +1,16 @@
 
 body {
-    background-color:linear-gradient(red,yellow);
+    background-color:indianred;
 }
 
 h1 {
     font-family: helvetica;
+
 }
 
 .title {
     text-align: center;
-    background-color:(#4c4c4c);
+    background-color: rgba(76, 76, 75, 0.3);
 }
 
 .content {
